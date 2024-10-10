@@ -1,3 +1,13 @@
+## 3.0.0
+Features:
+  - vite bundler
+    - eslint
+
+BREAKING CHANGES:
+  - Remove Polyfills
+    - Nativ browser WebSocket required
+  - Remove all tests
+
 ## 2.0.0 (2016-5-21)
 
 Features:
